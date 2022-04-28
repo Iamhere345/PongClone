@@ -1,0 +1,8 @@
+#ignore output files
+out/
+
+#ignore .idea bc idk what it does
+.idea/
+
+#why am i putting comments above all of there
+.DS_Store
